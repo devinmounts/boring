@@ -1,0 +1,19 @@
+body{
+  background-color: grey;
+}
+
+h2.intro {
+  color: beige;
+  font-style: normal;
+  font: times;
+}
+
+p.intro{
+  width: 75%;
+  font-family: monospace;
+}
+
+img.intro{
+  border-color: beige;
+  border-style: groove;
+}
